@@ -25,11 +25,4 @@ cd personal-library-manager
 # library-manager1.3
 
 
-### 2. Run a local server
-```bash
-python3 -m http.server 8000
-npx http-server -p 8000
-
-### 3. Go to: http://localhost:8000
-
 
