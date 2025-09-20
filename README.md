@@ -22,11 +22,12 @@ A simple web application to manage your personal book collection. Users can regi
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/pchfyx/library-manager1.3
-cd personal-library-manager
+cd library-manager1.3
 
 
 
 # library-manager1.3
+
 
 
 
