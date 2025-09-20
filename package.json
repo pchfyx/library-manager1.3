@@ -1,16 +1,16 @@
 {
   "name": "personal-library-manager",
   "version": "1.0.0",
-  "description": "A personal library management system with Firebase",
+  "description": "Personal Library Manager with Firebase Authentication",
   "main": "index.html",
   "scripts": {
     "start": "serve -s . -p $PORT",
-    "build": "echo 'No build needed for static site'"
+    "build": "echo 'No build step required'"
   },
   "dependencies": {
     "serve": "^14.2.0"
   },
-  "keywords": ["library", "books", "firebase", "personal"],
-  "author": "ez",
-  "license": "MIT"
+  "engines": {
+    "node": ">=16.0.0"
+  }
 }
