@@ -16,13 +16,18 @@ A simple web application to manage your personal book collection. Users can regi
 - [Firebase Authentication](https://firebase.google.com/docs/auth)
 - [Firebase Realtime Database](https://firebase.google.com/docs/database)
 
-## Getting Started
+## Web
+
 
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/your-username/personal-library-manager.git
 cd personal-library-manager
+
+
+
 # library-manager1.3
+
 
 
 
